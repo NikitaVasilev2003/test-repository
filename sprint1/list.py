@@ -8,3 +8,8 @@ force_words.append(first)
 print(force_words)
 print('измененный список:', id(force_words))
 
+
+
+
+# new comment
+# ghweugheuwgh 
